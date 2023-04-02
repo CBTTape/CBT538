@@ -1,0 +1,14 @@
+2023-04-02 14:56:34.423378 - Initialized conversion of CBT538
+2023-04-02 14:56:34.475099 - Received CBT.V504.FILE538.PDS from FILE538.XMI 
+2023-04-02 14:56:34.477531 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE538.PDS, moved to PDS/$$$#DATE
+2023-04-02 14:56:34.478843 - Found $ZZSANOT.txt (text/plain) in CBT.V504.FILE538.PDS, moved to PDS/$ZZSANOT
+2023-04-02 14:56:34.479831 - Found @FILE538.txt (text/plain) in CBT.V504.FILE538.PDS, moved to PDS/@FILE538
+2023-04-02 14:56:34.479839 - Found ZZSAIMG.bin containing application/octet-stream, moved to PDS/ZZSAIMG
+2023-04-02 14:56:34.480775 - Found ZZSAINS.bin containing application/octet-stream, moved to PDS/ZZSAINS
+2023-04-02 14:56:34.483154 - Found ZZSAINSE.txt (text/plain) in CBT.V504.FILE538.PDS, moved to PDS/ZZSAINSE
+2023-04-02 14:56:34.483168 - Found ZZSAPACK.zip (application/zip), trying to unzip
+2023-04-02 14:56:34.483291 - Found ZZSAPACK.zip (application/zip), extracting to CBT538/ZZSAPACK
+2023-04-02 14:56:34.486192 - Found ZZSA80Z.zip (application/zip), trying to unzip
+2023-04-02 14:56:34.486256 - Found ZZSA80Z.zip (application/zip), extracting to CBT538/ZZSA80Z
+2023-04-02 14:56:34.488652 - Found ZZSA90Z.zip (application/zip), trying to unzip
+2023-04-02 14:56:34.488720 - Found ZZSA90Z.zip (application/zip), extracting to CBT538/ZZSA90Z
