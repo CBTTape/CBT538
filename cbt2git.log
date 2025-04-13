@@ -1,0 +1,10 @@
+2025-04-13 20:33:45.595513 - Received CBT.V508.FILE538.PDS from FILE538.XMI 
+2025-04-13 20:33:45.596629 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE538.PDS, moved to PDS/$$$#DATE
+2025-04-13 20:33:45.596725 - Found $ZZSANOT.txt (text/plain) in CBT.V508.FILE538.PDS, moved to PDS/$ZZSANOT
+2025-04-13 20:33:45.596815 - Found @FILE538.txt (text/plain) in CBT.V508.FILE538.PDS, moved to PDS/@FILE538
+2025-04-13 20:33:45.596921 - Found ZZSAIMG.bin (application/octet-stream) in CBT.V508.FILE538.PDS, moved to PDS/ZZSAIMG
+2025-04-13 20:33:45.597000 - Found ZZSAINS.bin (application/octet-stream) in CBT.V508.FILE538.PDS, moved to PDS/ZZSAINS
+2025-04-13 20:33:45.597085 - Found ZZSAINSE.txt (text/plain) in CBT.V508.FILE538.PDS, moved to PDS/ZZSAINSE
+2025-04-13 20:33:45.600441 - Found ZZSAPACK.zip (application/zip) in CBT.V508.FILE538.PDS, moved to ZZSAPACK
+2025-04-13 20:33:45.603206 - Found ZZSA80Z.zip (application/zip) in CBT.V508.FILE538.PDS, moved to ZZSA80Z
+2025-04-13 20:33:45.606321 - Found ZZSA90Z.zip (application/zip) in CBT.V508.FILE538.PDS, moved to ZZSA90Z
