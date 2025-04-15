@@ -1,10 +1,10 @@
-2025-04-15 03:19:54.127500 - Received CBT.V508.FILE538.PDS from FILE538.XMI 
-2025-04-15 03:19:54.128798 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE538.PDS, moved to PDS/$$$#DATE
-2025-04-15 03:19:54.128978 - Found $ZZSANOT.txt (text/plain) in CBT.V508.FILE538.PDS, moved to PDS/$ZZSANOT
-2025-04-15 03:19:54.129303 - Found @FILE538.txt (text/plain) in CBT.V508.FILE538.PDS, moved to PDS/@FILE538
-2025-04-15 03:19:54.129736 - Found ZZSAIMG.bin (application/octet-stream) in CBT.V508.FILE538.PDS, moved to PDS/ZZSAIMG
-2025-04-15 03:19:54.129905 - Found ZZSAINS.bin (application/octet-stream) in CBT.V508.FILE538.PDS, moved to PDS/ZZSAINS
-2025-04-15 03:19:54.130061 - Found ZZSAINSE.txt (text/plain) in CBT.V508.FILE538.PDS, moved to PDS/ZZSAINSE
-2025-04-15 03:19:54.133186 - Found ZZSAPACK.zip (application/zip) in CBT.V508.FILE538.PDS, moved to ZZSAPACK
-2025-04-15 03:19:54.135878 - Found ZZSA80Z.zip (application/zip) in CBT.V508.FILE538.PDS, moved to ZZSA80Z
-2025-04-15 03:19:54.139102 - Found ZZSA90Z.zip (application/zip) in CBT.V508.FILE538.PDS, moved to ZZSA90Z
+2025-04-15 22:06:19.375189 - Received CBT.V508.FILE538.PDS from FILE538.XMI 
+2025-04-15 22:06:19.376508 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE538.PDS, moved to PDS/$$$#DATE
+2025-04-15 22:06:19.376700 - Found $ZZSANOT.txt (text/plain) in CBT.V508.FILE538.PDS, moved to PDS/$ZZSANOT
+2025-04-15 22:06:19.376755 - Found @FILE538.txt (text/plain) in CBT.V508.FILE538.PDS, moved to PDS/@FILE538
+2025-04-15 22:06:19.377634 - Found ZZSAIMG.bin (application/octet-stream) in CBT.V508.FILE538.PDS, moved to PDS/ZZSAIMG
+2025-04-15 22:06:19.377822 - Found ZZSAINS.bin (application/octet-stream) in CBT.V508.FILE538.PDS, moved to PDS/ZZSAINS
+2025-04-15 22:06:19.378004 - Found ZZSAINSE.txt (text/plain) in CBT.V508.FILE538.PDS, moved to PDS/ZZSAINSE
+2025-04-15 22:06:19.380993 - Found ZZSAPACK.zip (application/zip) in CBT.V508.FILE538.PDS, moved to ZZSAPACK
+2025-04-15 22:06:19.383445 - Found ZZSA80Z.zip (application/zip) in CBT.V508.FILE538.PDS, moved to ZZSA80Z
+2025-04-15 22:06:19.386645 - Found ZZSA90Z.zip (application/zip) in CBT.V508.FILE538.PDS, moved to ZZSA90Z
